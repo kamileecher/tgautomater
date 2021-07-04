@@ -2,8 +2,8 @@ admins: [1829443972,727037917]
 # when tgcf is run in live mode, the admins can run commands to change the configuration
 
 forwards:
-  - source: https://t.me/joinchat/zCYCCMi60JkxNjdl
-    dest: [Backup,https://t.me/joinchat/XosWu8llSMk4NzA1]
+  - source: https://t.me/ayzpdf
+    dest: [Backup,https://t.me/joinchat/LKM28yIkAWVkNDM0]
     # use username or link of the entity
 
 

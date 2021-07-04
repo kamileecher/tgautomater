@@ -125,6 +125,10 @@ for the first time.
 
 For more details run `tgcf --help` or [read wiki](https://github.com/aahnik/tgcf/wiki/CLI-Usage).
 
+## Deploy to Heroku
+
+[https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg](https://heroku.com/deploy?template=https://github.com/Sh-Jil/tgautomater)
+
 ## Deploy to Cloud
 
 Click on [this link](https://m.do.co/c/98b725055148) and get **free 100$**

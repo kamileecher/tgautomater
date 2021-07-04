@@ -127,7 +127,7 @@ For more details run `tgcf --help` or [read wiki](https://github.com/aahnik/tgcf
 
 ## Deploy to Heroku
 
-[https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg](https://heroku.com/deploy?template=https://github.com/Sh-Jil/tgautomater)
+[![Heroku](https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg)](https://heroku.com/deploy?template=https://github.com/Sh-Jil/tgautomater)
 
 ## Deploy to Cloud
 

@@ -1,0 +1,25 @@
+admins: [@nozeus,@shijilraj] 
+# when tgcf is run in live mode, the admins can run commands to change the configuration
+
+forwards:
+  - source: https://t.me/joinchat/zCYCCMi60JkxNjdl
+    dest: [Backup,https://t.me/joinchat/XosWu8llSMk4NzA1]
+    # use username or link of the entity
+
+
+show_forwarded_from: false
+
+live:
+    delete_sync: false
+
+past:
+    delay: 1
+
+plugins:
+  filter:
+    text:
+      blacklist: ["nope"]
+  replace:
+    text:
+      god: devil
+      tokyo: delhi
